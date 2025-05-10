@@ -82,8 +82,8 @@ This project was completed as part of the B.Tech final project at **Lakireddy Ba
 - Surya vamsi Patiballa
 MS in Data Science at George Washington University
   
-Email :- svamsi2002@gmail.com
-LinkedIn :- https://www.linkedin.com/in/surya-patiballa-b724851aa/
+- Email :- svamsi2002@gmail.com
+- LinkedIn :- https://www.linkedin.com/in/surya-patiballa-b724851aa/
 
 
 ## Future Enhancements
